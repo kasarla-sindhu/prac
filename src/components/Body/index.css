@@ -1,0 +1,77 @@
+/* Write your CSS here */
+.body-con {
+  display: flex;
+  flex-direction: row;
+  height: 58%;
+}
+.leftbar-con {
+  height: 100%;
+  width: 29%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px;
+  background-color: #cbd5e1;
+  margin-right: 4px;
+}
+.leftbar-con h1 {
+  color: #64748b;
+  font-weight: medium;
+  font-size: 18px;
+  margin: 10px;
+}
+.items-con {
+  margin-top: 5px;
+  display: flex;
+  flex-direction: column;
+}
+.items-con p {
+  margin: 3px;
+  color: #64748b;
+}
+.content-con {
+  background-color: #e2e8f0;
+  width: 40%;
+  padding: 20px;
+}
+.content-con h1 {
+  color: #64748b;
+  font-weight: medium;
+  font-size: 18px;
+  margin: 10px;
+}
+.content-con p {
+  margin-top: 3px;
+  color: #64748b;
+}
+.rightbar-con {
+  height: 100%;
+  width: 29%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px;
+  background-color: #cbd5e1;
+  margin-left: 4px;
+}
+.rightbar-con h1 {
+  color: #64748b;
+  font-weight: medium;
+  font-size: 18px;
+  margin: 10px;
+}
+.rightbar-con p {
+  width: 80px;
+  height: 80px;
+  border-width: 2px;
+  border-color: #64748b;
+  border-style: solid;
+  color: #64748b;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.displaychange {
+  display: none;
+}

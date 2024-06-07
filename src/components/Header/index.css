@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.header-con {
+  background-color: #cbd5e1;
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 3px;
+  height: 28%;
+}
+.header-con h1 {
+  color: #64748b;
+  font-weight: bold;
+  font-size: 35px;
+}

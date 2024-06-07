@@ -1,0 +1,8 @@
+/* Write your CSS here */
+.layout-con {
+  display: flex;
+  flex-direction: column;
+  margin: 15px;
+  height: 65vh;
+  background-color: #f1f5f9;
+}
